@@ -20,6 +20,6 @@ const styles = StyleSheet.create({
     },
     bold:{
         fontWeight:'bold',
-        fontSize: '30px',
+        fontSize: 30,
     },
 });
