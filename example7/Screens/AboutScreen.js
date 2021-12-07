@@ -11,14 +11,14 @@ export default function AboutScreen() {
 
 const styles = StyleSheet.create({
     container: {
-      flex: 1,
+      flex: 3,
       backgroundColor: '#fff',
       alignItems: 'center',
       justifyContent: 'space-around',
     },
     bold:{
         fontWeight:'bold',
-        fontSize: '30px',
+        fontSize: '30',
     },
 });
   
